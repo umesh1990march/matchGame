@@ -1,0 +1,12 @@
+.score-card-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  text-align: center;
+}
+
+.score-card-container button {
+  color: white;
+  background-color: yellow;
+}
